@@ -98,7 +98,7 @@ ENV/
 /site
 
 # data
-/data
+/data/maps
 
 # mypy
 .mypy_cache/
